@@ -5,13 +5,13 @@ function getSettings() {
 
         'hintToggle': 'f',
         'newTabHintToggle': 'F',
-        'linkHintCharacters': 'asdfjklqwerzxc',
+        'linkHintCharacters': 'aoeuhtnsdi',
         'detectByCursorStyle': false,
 
         'scrollUp': 'k',
         'scrollDown': 'j',
-        'scrollLeft': 'h',
-        'scrollRight': 'l',
+        'scrollLeft': 'q',
+        'scrollRight': 'x',
         'scrollSize': 50,
         'scrollUpHalfPage': 'u',
         'scrollDownHalfPage': 'd',
@@ -19,13 +19,13 @@ function getSettings() {
         'goToPageBottom': 'shift+g',
         'goToFirstInput': 'g i',
 
-        'goBack': 'shift+h',
-        'goForward': 'shift+l',
+        'goBack': 'shift+j',
+        'goForward': 'shift+k',
         'reload': 'r',
-        'tabForward': 'w',
-        'tabBack': 'q',
-        'closeTab': 'x',
-        'closeTabReverse': 'shift+x',
+        'tabForward': 'shift+x',
+        'tabBack': 'shift+q',
+        'closeTab': 'h',
+        'closeTabReverse': 'shift+h',
 
         'openTab': 't',
     };
